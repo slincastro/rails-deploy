@@ -8,5 +8,5 @@
     "@rails/actioncable": "^6.0.0"
   },
   "version": "0.1.0",
-  "engines" : { "node": "8.9.4" }
+  "engines" : { "node": "10.15.3" }
 }
