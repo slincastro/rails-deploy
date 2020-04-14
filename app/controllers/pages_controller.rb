@@ -1,4 +1,4 @@
-class PagesController < ApplicationController
+class PagesController < ApplicationController::Base
     def home
         puts "Honey, I'm home!"
       end
